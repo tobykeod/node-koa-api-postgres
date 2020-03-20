@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/tobykeod/node-koa-api-postgres#readme",
   "dependencies": {
-    "koa": "^2.11.0"
+    "knex": "^0.20.12",
+    "koa": "^2.11.0",
+    "pg": "^7.18.2"
   }
 }

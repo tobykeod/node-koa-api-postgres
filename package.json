@@ -1,0 +1,21 @@
+{
+  "name": "node-koa-api-postgres",
+  "version": "1.0.0",
+  "description": "Restful API with Node, Koa, and PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobykeod/node-koa-api-postgres.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobykeod/node-koa-api-postgres/issues"
+  },
+  "homepage": "https://github.com/tobykeod/node-koa-api-postgres#readme"
+}
